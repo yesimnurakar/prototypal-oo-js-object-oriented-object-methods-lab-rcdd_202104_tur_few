@@ -6,6 +6,3 @@ this.veto = function()  {
     console.log("No, I must disagree");
   };
 }
-
-
-
