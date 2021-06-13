@@ -7,5 +7,5 @@ this.veto = function()  {
   };
 }
 
-  
+
 }
